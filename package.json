@@ -1,0 +1,20 @@
+{
+  "name": "desafio-mario-kart-dio",
+  "version": "1.0.0",
+  "description": "desafio consiste em criar no console uma disputa de corrida com dois personagens, o melhor ganha",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devpedrosena/desafio-mario-kart.git"
+  },
+  "author": "pedro sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devpedrosena/desafio-mario-kart/issues"
+  },
+  "homepage": "https://github.com/devpedrosena/desafio-mario-kart#readme"
+}
