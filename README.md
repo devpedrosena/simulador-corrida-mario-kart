@@ -28,14 +28,19 @@ O objetivo principal do projeto é simular uma corrida entre Mario e Luigi com b
 
 1. Clone o repositório:
 
-```bash
+```
 git clone https://github.com/devpedrosena/desafio-mario-kart.git
+```
 
 2 - Navegue até o diretório do projeto:
+```
 cd desafio-mario-kart
+```
 
 3 - Execute o projeto:
+```
 npm run dev
+```
 
 4 - Assista a disputa entre Mario e Luigi diretamente no seu console!
 
