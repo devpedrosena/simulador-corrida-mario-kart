@@ -49,7 +49,7 @@ npm run dev
 └── README.md       # Documentação do projeto
 
 
- ![Exemplo de Execução](./assets/example.png)
+ ![Exemplo de Execução](https://github.com/devpedrosena/simulador-corrida-mario-kart/blob/main/assets/example.png)
 Aqui está uma amostra do resultado da corrida entre Mario e Luigi:
 
 📄 License
