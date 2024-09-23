@@ -44,6 +44,7 @@ npm run dev
 
 4 - Assista a disputa entre Mario e Luigi diretamente no seu console!
 
+```
 📦 Estrutura do Projeto
 
 ├── src
@@ -52,10 +53,11 @@ npm run dev
 │   └── example.png # Exemplo da execução
 ├── package.json    # Configurações do projeto
 └── README.md       # Documentação do projeto
-
+```
 
  <img src="https://raw.githubusercontent.com/devpedrosena/simulador-corrida-mario-kart/refs/heads/main/assets/example.png" alt="Exemplo execução">
 Aqui está uma amostra do resultado da corrida entre Mario e Luigi:
+
 
 📄 License
 Este projeto está sob a licença ISC. Para mais informações, consulte o arquivo LICENSE.
@@ -71,3 +73,4 @@ Pedro Sena - devpedrosena
 Este projeto foi inspirado pela franquia Mario Kart, trazendo um pouco da diversão dos jogos de corrida para o console.
 
 Nota: Este é um desafio de projeto proposto pela DIO para fins de aprendizado.
+
